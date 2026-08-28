@@ -6,6 +6,7 @@ This repository contains my C++ programming practice, OOPs lab practicals, and F
 
 📂 Folder Structure
 
+```text
 cpp-practice/
 │
 ├── Basics/
