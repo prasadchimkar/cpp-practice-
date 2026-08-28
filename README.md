@@ -78,7 +78,7 @@ Practical 04| Bubble Sort for Product Prices
 Practical 05| Linked List – Insert and Display
 Practical 06| Circular Linked List
 Practical 07| Stack Operations and Decimal to Binary Conversion
-Practical 08| Queue Operation
+Practical 08| Queue Operations
 
 🎯 Purpose
 
