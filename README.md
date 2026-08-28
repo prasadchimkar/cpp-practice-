@@ -6,21 +6,15 @@ This repository contains my C++ programming practice, OOPs lab practicals, and F
 
 📂 Folder Structure
 
-```text
 cpp-practice/
 │
 ├── Basics/
-├── HelloWorld.cpp
-├── InputOutput.cpp
-├── Variables.cpp
-├── IfElse.cpp
-├── Loops.cpp
-└── Functions.cpp
-│   
-│   
-│   
-│
-│  
+│   ├── HelloWorld.cpp
+│   ├── InputOutput.cpp
+│   ├── Variables.cpp
+│   ├── IfElse.cpp
+│   ├── Loops.cpp
+│   └── Functions.cpp
 │
 ├── OOPS-Lab-Practicals/
 │   ├── Practical_01.cpp
@@ -50,18 +44,19 @@ cpp-practice/
 
 Basic C++ programs for understanding fundamental programming concepts.
 
-- Hello World
-- Variables
-- Input/Output
-- If-Else
-- Loops
-- Functions
+Program| Description
+HelloWorld.cpp| Prints "Hello, World!"
+InputOutput.cpp| Demonstrates basic input and output operations
+Variables.cpp| Demonstrates variable usage
+IfElse.cpp| Checks whether a number is positive, negative, or zero
+Loops.cpp| Demonstrates loop examples
+Functions.cpp| Demonstrates a function with user input
 
 🧑‍💻 OOPS Lab Practicals
 
 C++ programs based on Object-Oriented Programming concepts.
 
-Practical| Topic
+Practical| Program
 Practical 01| Basic Calculator
 Practical 02| Calculate Average Marks
 Practical 03| Student Class – Data Input and Display
@@ -77,7 +72,7 @@ Practical 10| Withdrawal Handling
 
 FDS stands for Fundamentals of Data Structures.
 
-Practical| Topic
+Practical| Program
 Practical 01| Array Operations Menu
 Practical 02| Student Performance Menu
 Practical 03| Linear Search
